@@ -1,0 +1,13 @@
+{
+  "name": "ai-naming-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI 起名 - Vercel Node 函数 + 豆包 Responses API 流式输出 + Supabase 落库",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
